@@ -32,4 +32,3 @@ start = '2015-01-01'
 p = get_price_data(tickers, start)
 r = coint(p)
 
-print("bonjour")
